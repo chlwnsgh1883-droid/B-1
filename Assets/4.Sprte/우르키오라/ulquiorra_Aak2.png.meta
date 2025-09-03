@@ -114,7 +114,7 @@ TextureImporter:
         width: 49
         height: 59
       alignment: 9
-      pivot: {x: 0.7474152, y: 0.41222194}
+      pivot: {x: 0.74020875, y: 0.4281816}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -136,7 +136,7 @@ TextureImporter:
         width: 68
         height: 66
       alignment: 9
-      pivot: {x: 0.3494098, y: 0.35198024}
+      pivot: {x: 0.3355622, y: 0.3662472}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -153,12 +153,12 @@ TextureImporter:
       name: ulquiorra_Aak2_2
       rect:
         serializedVersion: 2
-        x: 134
+        x: 135
         y: 0
         width: 60
         height: 55
       alignment: 9
-      pivot: {x: 0.41564587, y: 0.42081827}
+      pivot: {x: 0.39406663, y: 0.44007868}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
