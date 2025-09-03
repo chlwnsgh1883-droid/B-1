@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: 209a2c233fe61f34d98f322adb376cae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8250720675465040045
+    second: ulquiorra_Die_0
+  - first:
+      213: 9140243538159904511
+    second: ulquiorra_Die_1
+  - first:
+      213: 3420092734638774408
+    second: ulquiorra_Die_2
+  - first:
+      213: 6671230291223388540
+    second: ulquiorra_Die_3
+  - first:
+      213: -554097863190830861
+    second: ulquiorra_Die_4
+  - first:
+      213: 2225939543631474042
+    second: ulquiorra_Die_5
+  - first:
+      213: 594445635550145484
+    second: ulquiorra_Die_6
+  - first:
+      213: -1530151645435619836
+    second: ulquiorra_Die_7
+  - first:
+      213: 161201113902575660
+    second: ulquiorra_Die_8
+  - first:
+      213: -1846131357150999597
+    second: ulquiorra_Die_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ulquiorra_Die_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 47
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5701208, y: 0.42509872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0901a7db2708270800000000000000
+      internalID: 8250720675465040045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulquiorra_Die_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1
+        width: 49
+        height: 48
+      alignment: 9
+      pivot: {x: 0.6345176, y: 0.43992302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6a494221ba8de70800000000000000
+      internalID: 9140243538159904511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulquiorra_Die_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1
+        width: 52
+        height: 51
+      alignment: 9
+      pivot: {x: 0.57922363, y: 0.4273017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888d903c83c967f20800000000000000
+      internalID: 3420092734638774408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulquiorra_Die_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 5
+        width: 51
+        height: 43
+      alignment: 9
+      pivot: {x: 0.43538052, y: 0.22216807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71223baa98f49c50800000000000000
+      internalID: 6671230291223388540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulquiorra_Die_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 61
+        height: 34
+      alignment: 9
+      pivot: {x: 0.47298694, y: 0.6938632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f025bddde27f48f0800000000000000
+      internalID: -554097863190830861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ulquiorra_Die_9
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 7
+        width: 62
+        height: 19
+      alignment: 9
+      pivot: {x: 0.42691335, y: 0.43495515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db0e48df493166e0800000000000000
+      internalID: -1846131357150999597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fecee21547ec0864e953660952bb754a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ulquiorra_Die_0: 8250720675465040045
+      ulquiorra_Die_1: 9140243538159904511
+      ulquiorra_Die_2: 3420092734638774408
+      ulquiorra_Die_3: 6671230291223388540
+      ulquiorra_Die_4: -554097863190830861
+      ulquiorra_Die_5: 2225939543631474042
+      ulquiorra_Die_6: 594445635550145484
+      ulquiorra_Die_7: -1530151645435619836
+      ulquiorra_Die_8: 161201113902575660
+      ulquiorra_Die_9: -1846131357150999597
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
