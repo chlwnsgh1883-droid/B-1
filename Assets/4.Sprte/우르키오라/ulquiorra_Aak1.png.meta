@@ -113,8 +113,8 @@ TextureImporter:
         y: 0
         width: 40
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5353843, y: 0.47068745}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -135,8 +135,8 @@ TextureImporter:
         y: 0
         width: 62
         height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.32439557, y: 0.47945756}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -153,12 +153,12 @@ TextureImporter:
       name: ulquiorra_Aak1_2
       rect:
         serializedVersion: 2
-        x: 106
-        y: 0
+        x: 110
+        y: 1
         width: 75
         height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5609698, y: 0.4958124}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -175,7 +175,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: badbd77bb0349a64e85d4b93b2ca1a96
     internalID: 0
     vertices: []
     indices: 

@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 7b3549d51e827d84fa18654ab8e3bdd6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4884821678952571523
+    second: skll2_0
+  - first:
+      213: -1149812828840424930
+    second: skll2_1
+  - first:
+      213: 1054248295331906895
+    second: skll2_2
+  - first:
+      213: -7594375200876383472
+    second: skll2_3
+  - first:
+      213: 1440328636763567390
+    second: skll2_4
+  - first:
+      213: 7884377842099714308
+    second: skll2_5
+  - first:
+      213: 5508391437600454024
+    second: skll2_6
+  - first:
+      213: -6646970817490991010
+    second: skll2_7
+  - first:
+      213: 5422527125869872904
+    second: skll2_8
+  - first:
+      213: 5012078908534444486
+    second: skll2_9
+  - first:
+      213: 5699260339778701639
+    second: skll2_10
+  - first:
+      213: 8820807169912997793
+    second: skll2_11
+  - first:
+      213: 6912443890615653388
+    second: skll2_12
+  - first:
+      213: -7153608525039469716
+    second: skll2_13
+  - first:
+      213: -8649355236249038052
+    second: skll2_14
+  - first:
+      213: -2660179000136342211
+    second: skll2_15
+  - first:
+      213: -7660496630052238219
+    second: skll2_16
+  - first:
+      213: 1187741030108035976
+    second: skll2_17
+  - first:
+      213: 5445632271229758844
+    second: skll2_18
+  - first:
+      213: -6379047380872524224
+    second: skll2_19
+  - first:
+      213: 6744536675536195347
+    second: skll2_20
+  - first:
+      213: 5772063181743869352
+    second: skll2_21
+  - first:
+      213: -6855981840244144567
+    second: skll2_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skll2_0
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 77
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d97ea5090a53cb0800000000000000
+      internalID: -4884821678952571523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skll2_1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 7
+        width: 115
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a87caf25b0b00f0800000000000000
+      internalID: -1149812828840424930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skll2_2
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 80
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45c15c2d3171ae00800000000000000
+      internalID: 1054248295331906895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skll2_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 7
+        width: 115
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0133ab4ddfb5b9690800000000000000
+      internalID: -7594375200876383472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skll2_4
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 80
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e157d1293431df310800000000000000
+      internalID: 1440328636763567390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skll2_5
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 74
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4097059cfdfea6d60800000000000000
+      internalID: 7884377842099714308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skll2_6
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 70
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8857af9e3dcb17c40800000000000000
+      internalID: 5508391437600454024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skll2_7
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 77
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58cf07324731c3a0800000000000000
+      internalID: -6646970817490991010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skll2_8
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 77
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807c462f0bfa04b40800000000000000
+      internalID: 5422527125869872904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skll2_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 7
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c15c61563b7e8540800000000000000
+      internalID: 5012078908534444486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skll2_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 7
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7494bf24517d71f40800000000000000
+      internalID: 5699260339778701639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skll2_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 7
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a702eae26dc96a70800000000000000
+      internalID: 8820807169912997793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skll2_12
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 7
+        width: 116
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0417f5481fedef50800000000000000
+      internalID: 6912443890615653388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skll2_13
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 7
+        width: 115
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bf0daa2f649bc90800000000000000
+      internalID: -7153608525039469716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skll2_14
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 7
+        width: 116
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1316372d3157f780800000000000000
+      internalID: -8649355236249038052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skll2_15
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 7
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d356be92b45251bd0800000000000000
+      internalID: -2660179000136342211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skll2_16
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 7
+        width: 89
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cc8aae6e270b590800000000000000
+      internalID: -7660496630052238219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skll2_17
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 7
+        width: 119
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bfeb88c24bb7010800000000000000
+      internalID: 1187741030108035976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skll2_18
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 28
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7dad00d2b5c29b40800000000000000
+      internalID: 5445632271229758844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skll2_19
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 7
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e05b964321977a0800000000000000
+      internalID: -6379047380872524224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skll2_20
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 7
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fcdef4f58699d50800000000000000
+      internalID: 6744536675536195347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skll2_21
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 7
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad44f0d1ec7a1050800000000000000
+      internalID: 5772063181743869352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skll2_22
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 7
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94608b147d8aad0a0800000000000000
+      internalID: -6855981840244144567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      skll2_0: -4884821678952571523
+      skll2_1: -1149812828840424930
+      skll2_10: 5699260339778701639
+      skll2_11: 8820807169912997793
+      skll2_12: 6912443890615653388
+      skll2_13: -7153608525039469716
+      skll2_14: -8649355236249038052
+      skll2_15: -2660179000136342211
+      skll2_16: -7660496630052238219
+      skll2_17: 1187741030108035976
+      skll2_18: 5445632271229758844
+      skll2_19: -6379047380872524224
+      skll2_2: 1054248295331906895
+      skll2_20: 6744536675536195347
+      skll2_21: 5772063181743869352
+      skll2_22: -6855981840244144567
+      skll2_3: -7594375200876383472
+      skll2_4: 1440328636763567390
+      skll2_5: 7884377842099714308
+      skll2_6: 5508391437600454024
+      skll2_7: -6646970817490991010
+      skll2_8: 5422527125869872904
+      skll2_9: 5012078908534444486
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
