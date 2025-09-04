@@ -155,11 +155,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 11
-        width: 71
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 0
+        width: 79
+        height: 85
+      alignment: 9
+      pivot: {x: 0.4762211, y: 0.4557992}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -177,11 +177,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 79
-        y: 11
-        width: 73
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 0
+        width: 79
+        height: 85
+      alignment: 9
+      pivot: {x: 0.47027636, y: 0.4613243}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -198,12 +198,12 @@ TextureImporter:
       name: Aak3_2
       rect:
         serializedVersion: 2
-        x: 168
-        y: 33
-        width: 45
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 163
+        y: 0
+        width: 86
+        height: 85
+      alignment: 9
+      pivot: {x: 0.49999982, y: 0.4668494}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -220,12 +220,12 @@ TextureImporter:
       name: Aak3_3
       rect:
         serializedVersion: 2
-        x: 182
-        y: 11
-        width: 66
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 254
+        y: 0
+        width: 88
+        height: 85
+      alignment: 9
+      pivot: {x: 0.44663274, y: 0.42817375}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -242,12 +242,12 @@ TextureImporter:
       name: Aak3_4
       rect:
         serializedVersion: 2
-        x: 256
+        x: 348
         y: 0
-        width: 65
+        width: 85
         height: 85
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.4668493, y: 0.43922392}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -264,12 +264,12 @@ TextureImporter:
       name: Aak3_5
       rect:
         serializedVersion: 2
-        x: 304
-        y: 24
-        width: 37
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 436
+        y: 0
+        width: 85
+        height: 85
+      alignment: 9
+      pivot: {x: 0.483425, y: 0.4502741}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -286,12 +286,12 @@ TextureImporter:
       name: Aak3_6
       rect:
         serializedVersion: 2
-        x: 350
-        y: 17
-        width: 31
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 528
+        y: 0
+        width: 89
+        height: 85
+      alignment: 9
+      pivot: {x: 0.48416996, y: 0.4613243}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -308,12 +308,12 @@ TextureImporter:
       name: Aak3_7
       rect:
         serializedVersion: 2
-        x: 361
-        y: 4
-        width: 54
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 617
+        y: 0
+        width: 63
+        height: 85
+      alignment: 9
+      pivot: {x: 0.59690833, y: 0.41159847}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -330,12 +330,12 @@ TextureImporter:
       name: Aak3_8
       rect:
         serializedVersion: 2
-        x: 368
-        y: 55
-        width: 64
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 681
+        y: 1
+        width: 61
+        height: 84
+      alignment: 9
+      pivot: {x: 0.6308804, y: 0.4217278}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -352,12 +352,12 @@ TextureImporter:
       name: Aak3_9
       rect:
         serializedVersion: 2
-        x: 439
-        y: 4
-        width: 82
-        height: 81
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 749
+        y: 0
+        width: 49
+        height: 85
+      alignment: 9
+      pivot: {x: 0.6054276, y: 0.444749}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -370,187 +370,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Aak3_10
-      rect:
-        serializedVersion: 2
-        x: 535
-        y: 33
-        width: 45
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0c7dc5151c8de4fb0800000000000000
-      internalID: -4661550239476557888
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Aak3_11
-      rect:
-        serializedVersion: 2
-        x: 546
-        y: 11
-        width: 69
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a5092f65b66f11aa0800000000000000
-      internalID: -6191897071777050534
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Aak3_12
-      rect:
-        serializedVersion: 2
-        x: 616
-        y: 11
-        width: 61
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a3c15741546ed2c70800000000000000
-      internalID: 8948061219025394746
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Aak3_13
-      rect:
-        serializedVersion: 2
-        x: 679
-        y: 11
-        width: 61
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2ea5d992010900130800000000000000
-      internalID: 3530980506950523618
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Aak3_14
-      rect:
-        serializedVersion: 2
-        x: 758
-        y: 11
-        width: 40
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: db71d079ca17278f0800000000000000
-      internalID: -544247618875877443
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Aak3_15
-      rect:
-        serializedVersion: 2
-        x: 169
-        y: 1
-        width: 77
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f7194eba8e5540360800000000000000
-      internalID: 7134922167466365311
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Aak3_16
-      rect:
-        serializedVersion: 2
-        x: 391
-        y: 0
-        width: 38
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 01818ea2c218ac0e0800000000000000
-      internalID: -2248843037219743728
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Aak3_17
-      rect:
-        serializedVersion: 2
-        x: 536
-        y: 1
-        width: 77
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 747761a0c7f3ecb80800000000000000
-      internalID: -8372684855257434297
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8e446079dbe2e084eb1f8beec8fd24a3
     internalID: 0
     vertices: []
     indices: 
@@ -562,14 +386,6 @@ TextureImporter:
     nameFileIdTable:
       Aak3_0: -4327240220857492606
       Aak3_1: 619092527711444608
-      Aak3_10: -4661550239476557888
-      Aak3_11: -6191897071777050534
-      Aak3_12: 8948061219025394746
-      Aak3_13: 3530980506950523618
-      Aak3_14: -544247618875877443
-      Aak3_15: 7134922167466365311
-      Aak3_16: -2248843037219743728
-      Aak3_17: -8372684855257434297
       Aak3_2: 2787918265005064693
       Aak3_3: 1477782985572762707
       Aak3_4: -5131272368007315743
