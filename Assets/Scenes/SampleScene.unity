@@ -284,7 +284,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 2.29, z: -10}
+  m_LocalPosition: {x: 0, y: 7.84, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1520,6 +1520,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 3
   moveVecter: {x: 0, y: 0}
+  animator: {fileID: 2040989877}
+  spriteRenderer: {fileID: 0}
+  attackSpeed: 1
 --- !u!50 &2040989876
 Rigidbody2D:
   serializedVersion: 5
@@ -1547,6 +1550,12 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!95 &2040989877 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 6626474111317487384, guid: 4f1866ee9d004334eb58596097354f13,
+    type: 3}
+  m_PrefabInstance: {fileID: 2347153793142163696}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2088880505
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1797,12 +1806,12 @@ PrefabInstance:
     - target: {fileID: 405184676183555483, guid: 4f1866ee9d004334eb58596097354f13,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.82
+      value: -3.17
       objectReference: {fileID: 0}
     - target: {fileID: 405184676183555483, guid: 4f1866ee9d004334eb58596097354f13,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 10.13
+      value: 8.93
       objectReference: {fileID: 0}
     - target: {fileID: 405184676183555483, guid: 4f1866ee9d004334eb58596097354f13,
         type: 3}
@@ -1863,6 +1872,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626474111317487384, guid: 4f1866ee9d004334eb58596097354f13,
+        type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
