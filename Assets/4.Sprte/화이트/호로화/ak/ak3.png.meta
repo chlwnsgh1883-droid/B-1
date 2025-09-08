@@ -202,12 +202,12 @@ TextureImporter:
       name: ak3_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 18
-        width: 57
-        height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 65
+        height: 94
+      alignment: 9
+      pivot: {x: 0.4733307, y: 0.47233772}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -224,12 +224,12 @@ TextureImporter:
       name: ak3_1
       rect:
         serializedVersion: 2
-        x: 67
-        y: 18
-        width: 60
-        height: 76
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 66
+        y: 0
+        width: 61
+        height: 94
+      alignment: 9
+      pivot: {x: 0.50710446, y: 0.49538958}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -246,10 +246,10 @@ TextureImporter:
       name: ak3_2
       rect:
         serializedVersion: 2
-        x: 132
-        y: 18
-        width: 56
-        height: 58
+        x: 128
+        y: 0
+        width: 61
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,10 +268,10 @@ TextureImporter:
       name: ak3_3
       rect:
         serializedVersion: 2
-        x: 193
-        y: 18
-        width: 51
-        height: 62
+        x: 191
+        y: 0
+        width: 56
+        height: 94
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -290,12 +290,12 @@ TextureImporter:
       name: ak3_4
       rect:
         serializedVersion: 2
-        x: 255
-        y: 18
-        width: 51
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 250
+        y: 0
+        width: 59
+        height: 94
+      alignment: 9
+      pivot: {x: 0.50734544, y: 0.4585066}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -312,12 +312,12 @@ TextureImporter:
       name: ak3_5
       rect:
         serializedVersion: 2
-        x: 323
-        y: 18
-        width: 89
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 321
+        y: 0
+        width: 92
+        height: 94
+      alignment: 9
+      pivot: {x: 0.4576048, y: 0.46772733}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -335,11 +335,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 417
-        y: 18
-        width: 91
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 0
+        width: 92
+        height: 94
+      alignment: 9
+      pivot: {x: 0.44818348, y: 0.46772733}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -357,11 +357,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 511
-        y: 18
-        width: 91
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 0
+        width: 93
+        height: 94
+      alignment: 9
+      pivot: {x: 0.44874096, y: 0.47694808}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -378,12 +378,12 @@ TextureImporter:
       name: ak3_8
       rect:
         serializedVersion: 2
-        x: 608
-        y: 20
-        width: 11
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 607
+        y: 0
+        width: 90
+        height: 94
+      alignment: 9
+      pivot: {x: 0.4906013, y: 0.4742057}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -400,12 +400,12 @@ TextureImporter:
       name: ak3_9
       rect:
         serializedVersion: 2
-        x: 615
-        y: 20
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 701
+        y: 0
+        width: 89
+        height: 94
+      alignment: 9
+      pivot: {x: 0.46821576, y: 0.4570095}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -422,12 +422,12 @@ TextureImporter:
       name: ak3_10
       rect:
         serializedVersion: 2
-        x: 616
-        y: 27
-        width: 6
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 793
+        y: 0
+        width: 99
+        height: 94
+      alignment: 9
+      pivot: {x: 0.49999937, y: 0.44841138}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -444,12 +444,12 @@ TextureImporter:
       name: ak3_11
       rect:
         serializedVersion: 2
-        x: 618
-        y: 25
-        width: 7
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 893
+        y: 0
+        width: 91
+        height: 94
+      alignment: 9
+      pivot: {x: 0.47335514, y: 0.43981326}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -466,12 +466,12 @@ TextureImporter:
       name: ak3_12
       rect:
         serializedVersion: 2
-        x: 621
-        y: 19
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 989
+        y: 0
+        width: 62
+        height: 94
+      alignment: 9
+      pivot: {x: 0.49348202, y: 0.46130854}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -488,12 +488,12 @@ TextureImporter:
       name: ak3_13
       rect:
         serializedVersion: 2
-        x: 622
-        y: 18
-        width: 59
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1053
+        y: 0
+        width: 57
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5141794, y: 0.46560758}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -510,12 +510,12 @@ TextureImporter:
       name: ak3_14
       rect:
         serializedVersion: 2
-        x: 676
-        y: 19
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1114
+        y: 0
+        width: 54
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5374168, y: 0.46990666}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -532,12 +532,12 @@ TextureImporter:
       name: ak3_15
       rect:
         serializedVersion: 2
-        x: 678
-        y: 25
-        width: 9
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1170
+        y: 0
+        width: 62
+        height: 94
+      alignment: 9
+      pivot: {x: 0.41526547, y: 0.46560758}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -550,407 +550,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: ak3_16
-      rect:
-        serializedVersion: 2
-        x: 683
-        y: 27
-        width: 6
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 58bd99404c85ca430800000000000000
-      internalID: 3795506184880511877
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ak3_17
-      rect:
-        serializedVersion: 2
-        x: 683
-        y: 20
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ca70afce364c2a1c0800000000000000
-      internalID: -4493813544705718356
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ak3_18
-      rect:
-        serializedVersion: 2
-        x: 686
-        y: 20
-        width: 11
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 46af9593065110a10800000000000000
-      internalID: 1873802422986078820
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ak3_19
-      rect:
-        serializedVersion: 2
-        x: 701
-        y: 18
-        width: 73
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 47338d6876b4b4440800000000000000
-      internalID: 4921109925848429428
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ak3_20
-      rect:
-        serializedVersion: 2
-        x: 702
-        y: 30
-        width: 9
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 666cebd27b28d9e10800000000000000
-      internalID: 2206063115739514470
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ak3_21
-      rect:
-        serializedVersion: 2
-        x: 708
-        y: 20
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ba9d07050f4ac23f0800000000000000
-      internalID: -924182471469114965
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ak3_22
-      rect:
-        serializedVersion: 2
-        x: 709
-        y: 27
-        width: 6
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fb7a508edc6988500800000000000000
-      internalID: 398734378127435711
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ak3_23
-      rect:
-        serializedVersion: 2
-        x: 769
-        y: 19
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2e9bee2e7717011b0800000000000000
-      internalID: -5687921569646593566
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ak3_24
-      rect:
-        serializedVersion: 2
-        x: 771
-        y: 25
-        width: 9
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c2f5870c6ee0e1b40800000000000000
-      internalID: 5412780186380295980
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ak3_25
-      rect:
-        serializedVersion: 2
-        x: 776
-        y: 27
-        width: 6
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aeb4497274b722bc0800000000000000
-      internalID: -3809346789265093654
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ak3_26
-      rect:
-        serializedVersion: 2
-        x: 776
-        y: 20
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0a97594590acf7140800000000000000
-      internalID: 4719713075930167712
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ak3_27
-      rect:
-        serializedVersion: 2
-        x: 779
-        y: 20
-        width: 11
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 226c01d5026be9200800000000000000
-      internalID: 188788484512728610
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ak3_28
-      rect:
-        serializedVersion: 2
-        x: 801
-        y: 18
-        width: 89
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d43c845ddb0a0f2b0800000000000000
-      internalID: -5552761603360242867
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ak3_29
-      rect:
-        serializedVersion: 2
-        x: 894
-        y: 18
-        width: 89
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 765ad23511685eb60800000000000000
-      internalID: 7774767740693095783
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ak3_30
-      rect:
-        serializedVersion: 2
-        x: 993
-        y: 18
-        width: 55
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e957b8dc3fa83ac70800000000000000
-      internalID: 8981174861637055902
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ak3_31
-      rect:
-        serializedVersion: 2
-        x: 1057
-        y: 18
-        width: 51
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1a882f930a2616310800000000000000
-      internalID: 1396505799768049825
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ak3_32
-      rect:
-        serializedVersion: 2
-        x: 1120
-        y: 18
-        width: 42
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bfe74d5492da2f7a0800000000000000
-      internalID: -6344818532234789125
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ak3_33
-      rect:
-        serializedVersion: 2
-        x: 1169
-        y: 18
-        width: 46
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 55d1fcbb5f7e76710800000000000000
-      internalID: 1686571628077456725
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 3d7ec0a02490b914da1089eabf9b133b
     internalID: 0
     vertices: []
     indices: 
@@ -968,26 +572,8 @@ TextureImporter:
       ak3_13: -6424759360240544575
       ak3_14: -9056791616283866282
       ak3_15: -1081674227520573859
-      ak3_16: 3795506184880511877
-      ak3_17: -4493813544705718356
-      ak3_18: 1873802422986078820
-      ak3_19: 4921109925848429428
       ak3_2: -1570990184431029536
-      ak3_20: 2206063115739514470
-      ak3_21: -924182471469114965
-      ak3_22: 398734378127435711
-      ak3_23: -5687921569646593566
-      ak3_24: 5412780186380295980
-      ak3_25: -3809346789265093654
-      ak3_26: 4719713075930167712
-      ak3_27: 188788484512728610
-      ak3_28: -5552761603360242867
-      ak3_29: 7774767740693095783
       ak3_3: -4092241835654094124
-      ak3_30: 8981174861637055902
-      ak3_31: 1396505799768049825
-      ak3_32: -6344818532234789125
-      ak3_33: 1686571628077456725
       ak3_4: 1210595689355074814
       ak3_5: 5440260834693273341
       ak3_6: -3726180407840355810

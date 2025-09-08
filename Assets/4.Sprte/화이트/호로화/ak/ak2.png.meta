@@ -154,12 +154,12 @@ TextureImporter:
       name: ak2_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 17
-        width: 72
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 75
+        height: 96
+      alignment: 9
+      pivot: {x: 0.50646573, y: 0.4545375}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -176,12 +176,12 @@ TextureImporter:
       name: ak2_1
       rect:
         serializedVersion: 2
-        x: 81
-        y: 17
-        width: 73
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 79
+        y: 0
+        width: 76
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46969172}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -198,12 +198,12 @@ TextureImporter:
       name: ak2_2
       rect:
         serializedVersion: 2
-        x: 170
-        y: 39
-        width: 45
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 164
+        y: 0
+        width: 86
+        height: 96
+      alignment: 9
+      pivot: {x: 0.50563884, y: 0.46969172}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -220,12 +220,12 @@ TextureImporter:
       name: ak2_3
       rect:
         serializedVersion: 2
-        x: 184
-        y: 17
-        width: 66
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 254
+        y: 0
+        width: 90
+        height: 96
+      alignment: 9
+      pivot: {x: 0.47844747, y: 0.44443473}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -242,12 +242,12 @@ TextureImporter:
       name: ak2_4
       rect:
         serializedVersion: 2
-        x: 258
-        y: 5
-        width: 65
-        height: 87
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 346
+        y: 0
+        width: 91
+        height: 96
+      alignment: 9
+      pivot: {x: 0.45736828, y: 0.44443473}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -264,12 +264,12 @@ TextureImporter:
       name: ak2_5
       rect:
         serializedVersion: 2
-        x: 306
-        y: 30
-        width: 37
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 439
+        y: 0
+        width: 85
+        height: 96
+      alignment: 9
+      pivot: {x: 0.47147468, y: 0.44443473}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -286,12 +286,12 @@ TextureImporter:
       name: ak2_6
       rect:
         serializedVersion: 2
-        x: 352
-        y: 23
-        width: 31
-        height: 61
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 532
+        y: 0
+        width: 87
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4545375}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -308,12 +308,12 @@ TextureImporter:
       name: ak2_7
       rect:
         serializedVersion: 2
-        x: 363
-        y: 10
-        width: 54
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 621
+        y: 0
+        width: 66
+        height: 96
+      alignment: 9
+      pivot: {x: 0.62666273, y: 0.41409555}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -330,12 +330,12 @@ TextureImporter:
       name: ak2_8
       rect:
         serializedVersion: 2
-        x: 370
-        y: 61
-        width: 64
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 687
+        y: 0
+        width: 66
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5719965, y: 0.42025223}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -352,12 +352,12 @@ TextureImporter:
       name: ak2_9
       rect:
         serializedVersion: 2
-        x: 441
-        y: 10
-        width: 82
-        height: 82
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 758
+        y: 0
+        width: 62
+        height: 96
+      alignment: 9
+      pivot: {x: 0.47019318, y: 0.42850205}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -370,187 +370,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: ak2_10
-      rect:
-        serializedVersion: 2
-        x: 537
-        y: 39
-        width: 45
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1ce4c2689ec5e5770800000000000000
-      internalID: 8601414496372412097
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ak2_11
-      rect:
-        serializedVersion: 2
-        x: 548
-        y: 17
-        width: 69
-        height: 59
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 62b7f3b87a2604e50800000000000000
-      internalID: 6791536709809961766
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ak2_12
-      rect:
-        serializedVersion: 2
-        x: 623
-        y: 17
-        width: 65
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5d79cdfe5394daa10800000000000000
-      internalID: 1922273111963375573
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ak2_13
-      rect:
-        serializedVersion: 2
-        x: 765
-        y: 17
-        width: 43
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 70bc80e5aa36270c0800000000000000
-      internalID: -4579488287709148409
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ak2_14
-      rect:
-        serializedVersion: 2
-        x: 171
-        y: 7
-        width: 77
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8b018f53e6233dcb0800000000000000
-      internalID: -4840469725559910216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ak2_15
-      rect:
-        serializedVersion: 2
-        x: 393
-        y: 6
-        width: 38
-        height: 38
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 73a65bb1f7c796060800000000000000
-      internalID: 6947220785563265591
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ak2_16
-      rect:
-        serializedVersion: 2
-        x: 538
-        y: 7
-        width: 77
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5d0ec9a25398de240800000000000000
-      internalID: 4822661637424865493
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ak2_17
-      rect:
-        serializedVersion: 2
-        x: 686
-        y: 17
-        width: 64
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b091139a7f9695c10800000000000000
-      internalID: 2042780418405636363
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e2e7d5477a9c98448bbc447cd27ce417
     internalID: 0
     vertices: []
     indices: 
@@ -562,14 +386,6 @@ TextureImporter:
     nameFileIdTable:
       ak2_0: -5254236343789205102
       ak2_1: -7817627613323057138
-      ak2_10: 8601414496372412097
-      ak2_11: 6791536709809961766
-      ak2_12: 1922273111963375573
-      ak2_13: -4579488287709148409
-      ak2_14: -4840469725559910216
-      ak2_15: 6947220785563265591
-      ak2_16: 4822661637424865493
-      ak2_17: 2042780418405636363
       ak2_2: 6029343921034467914
       ak2_3: -2067381230356800954
       ak2_4: 5984784426727733563
