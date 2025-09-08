@@ -1858,6 +1858,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Icigo
       objectReference: {fileID: 0}
+    - target: {fileID: 2543573051243780503, guid: 4f1866ee9d004334eb58596097354f13,
+        type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     - target: {fileID: 3702231575310202650, guid: 4f1866ee9d004334eb58596097354f13,
         type: 3}
       propertyPath: m_FlipX
