@@ -1,76 +1,35 @@
-using NUnit.Framework.Interfaces;
-using UnityEngine;
-using UnityEngine.Animations;
-using static UnityEditor.Searcher.SearcherWindow.Alignment;
+﻿using UnityEngine;
 
+[RequireComponent(typeof(Rigidbody2D))]
 public class Player : MonoBehaviour
 {
-    public float speed ;
-    public Vector2 moveVecter;
-    public Animator animator ;
-    public SpriteRenderer spriteRenderer ;
-    private bool isAttack;
-    public float attackSpeed;
-    float timer;
+    public float speed = 5f;
+    Rigidbody2D rb;
+    Vector2 move;
+    public SpriteRenderer sr;
+    public Animator animator; // Move만 켬/끔
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    void Awake()
     {
-        spriteRenderer = GetComponent<SpriteRenderer>();
-        
-
+        rb = GetComponent<Rigidbody2D>();
+        rb.gravityScale = 0;
+        rb.freezeRotation = true;
+        if (!sr) sr = GetComponent<SpriteRenderer>();
+        if (!animator) animator = GetComponent<Animator>();
     }
 
-    // Update is called once per frame
     void Update()
     {
-        
+        move.x = Input.GetAxisRaw("Horizontal");
+        move.y = Input.GetAxisRaw("Vertical");
+        move = move.normalized;
 
-        float x = Input.GetAxisRaw ("Horizontal");
-        float y = Input.GetAxisRaw("Vertical");
-        moveVecter = new Vector2(x, y).normalized;
-        if (x != 0)
-        {
-            if (x > 0)
-            {
-                spriteRenderer.flipX = false;
-            }
-            else
-            {
-                spriteRenderer.flipX = true;
-            }
-        }
+        if (sr && move.x != 0) sr.flipX = move.x < 0;
+        if (animator) animator.SetBool("Move", move != Vector2.zero); // ✅ AK는 안 씀
+    }
 
-        transform.position += (Vector3)moveVecter * speed * Time.deltaTime;
-        if(moveVecter == Vector2.zero)
-        {
-            animator.SetBool("Move", false);
-        }
-        else
-        {
-            animator.SetBool("Move", true);
-        }
-
-        if (isAttack)
-        {
-            if (timer >= attackSpeed)
-            {
-                isAttack = false;
-                timer = 0;
-            }
-            else
-            {
-                timer += Time.deltaTime;
-            }
-        }
-        if (Input.GetKeyDown(KeyCode.F) && !isAttack)
-        {
-            isAttack = true;
-            animator.SetBool("AK", true);
-        }
-        else
-        {
-            animator.SetBool("AK", false);
-        }
+    void FixedUpdate()
+    {
+        rb.linearVelocity = move * speed;
     }
 }
